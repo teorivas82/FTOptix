@@ -1,0 +1,203 @@
+Name: Tags
+Type: BaseObjectType
+Children:
+- Name: Controller Tags
+  Type: TagStructure
+  Children:
+  - Name: FTEcho_L85E_Online
+    Type: RAEtherNetIPTag
+    DataType: Boolean
+    Value: false
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "FTEcho_L85E_Online"
+  - Name: Tank_1
+    Id: g=9153cfdaa7a5bd0389d854164864dbc6
+    Type: Tank_UDDT
+    Children:
+    - Name: Tank_Alarm_HH
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_Alarm_HH"
+    - Name: Tank_Alarm_LL
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_Alarm_LL"
+    - Name: Tank_Full_LVL
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_Full_LVL"
+    - Name: Tank_ID
+      Type: RAEtherNetIPTag
+      DataType: Int16
+      Value: 0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_ID"
+    - Name: Tank_Level
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_Level"
+    - Name: Tank_Low_LVL
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_Low_LVL"
+    - Name: Tank_Product_ID
+      Type: RAEtherNetIPTag
+      DataType: Int16
+      Value: 0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Tank_Product_ID"
+    - Name: Valve_In_Status
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Valve_In_Status"
+    - Name: Valve_Out_Status
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_1.Valve_Out_Status"
+  - Name: Tank_2
+    Id: g=75e43298971992482c7fb6dbbbedadcf
+    Type: Tank_UDDT
+    Children:
+    - Name: Tank_Alarm_HH
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_Alarm_HH"
+    - Name: Tank_Alarm_LL
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_Alarm_LL"
+    - Name: Tank_Full_LVL
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_Full_LVL"
+    - Name: Tank_ID
+      Type: RAEtherNetIPTag
+      DataType: Int16
+      Value: 0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_ID"
+    - Name: Tank_Level
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_Level"
+    - Name: Tank_Low_LVL
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_Low_LVL"
+    - Name: Tank_Product_ID
+      Type: RAEtherNetIPTag
+      DataType: Int16
+      Value: 0
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Tank_Product_ID"
+    - Name: Valve_In_Status
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Valve_In_Status"
+    - Name: Valve_Out_Status
+      Type: RAEtherNetIPTag
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Tank_2.Valve_Out_Status"
+  - Name: Random91
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Value: 0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Random91"
+  - Name: Random92
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Value: 0
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Random92"

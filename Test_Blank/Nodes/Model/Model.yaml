@@ -1,0 +1,48 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  ValueRank: 2
+  ArrayDimensions: [1,7]
+  Value: 
+   {
+    "Type": 6,
+    "Dimensions": [1,7],
+    "Body": [
+     0,0,0,0,0,0,0
+    ]
+   }
+- Name: BrokerIpAddress
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "192.168.100.186"
+- Name: Message
+  Id: g=b7fdb563944ff252589d7cffe425c8b5
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: NewTopic
+  Id: g=8e2d0e4a99622f5fee1d1ba2f20cf300
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Topic
+  Id: g=c258409a0f42975c472d13d1f0767acd
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Status
+  Id: g=e30e8faf0f0fecb727e43d930df69269
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Tank1_lvl
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0

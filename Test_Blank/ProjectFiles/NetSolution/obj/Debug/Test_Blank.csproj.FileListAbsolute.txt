@@ -1,0 +1,12 @@
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\bin\Test_Blank.deps.json
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\bin\Test_Blank.dll
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\bin\Test_Blank.pdb
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.csproj.AssemblyReference.cache
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.AssemblyInfoInputs.cache
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.AssemblyInfo.cs
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.csproj.CoreCompileInputs.cache
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.dll
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\refint\Test_Blank.dll
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\Test_Blank.pdb
+C:\Users\trpw\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Test_Blank\ProjectFiles\NetSolution\obj\Debug\ref\Test_Blank.dll

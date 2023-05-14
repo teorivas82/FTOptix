@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>Test_BlankUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="cbf8670f118d21699dc657c04719fcae" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="66ea827156c59d5b022e5e2a9ed73dfe" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="648622a653f2a12814e874b64c215a35" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="ca43c902ce02dcd78ffb54daff18445d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="42787b7b374564320bfb9b61792a7de7" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="9621da52fc2fe51403aad438d9e5374e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="0df26bcb35c1b1635c7f618eac07d4da" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="5614c13777c1b81c12ad1994406c253b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="ee247b34c830d4c1d9100a2a6c0cac17" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="0f3c812afebfc1e5a2b396b15168e02c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="fe8415215f61e5b2b69386f1913ddd02" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="71bf2a50e1e116b64801fbdbb5b6c987" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Test_Blank" guid="17b49944474e82212e88d7fa8b2295b5" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>
